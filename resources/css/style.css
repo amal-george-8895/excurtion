@@ -1,18 +1,30 @@
 body {
   background-color: black;
   text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .heading h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
-  font-size: 20px;
-  color: white;
+  font-size: 50px;
 }
-.heading a {
+.heading a,
+.heading-2 a {
   color: aquamarine;
   font-size: 16px;
 }
 .video video {
   height: 300px;
   margin-top: 10px;
+}
+.heading-2 h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+.heading-2 p {
+  font-size: 21px;
+  color: gray;
+}
+.camp {
+  width: 500px;
 }
