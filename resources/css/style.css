@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+.heading h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  color: white;
+}
+.heading a {
+  color: aquamarine;
+  font-size: 16px;
+}
